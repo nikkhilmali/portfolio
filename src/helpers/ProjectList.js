@@ -22,18 +22,18 @@ export const ProjectList = [
     skills: "Weather API",
   },
   {
+    name: "Blog Platform",
+    image: Proj4,
+    skills: "Python, FASTAPI",
+  },
+  {
     name: "Random Quote Generater",
     image: Proj5,
     skills: "JavaScript,HTML,CSS,API",
   },
   {
     name: "Clock",
-    image: Proj4,
-    skills: "JavaScript, BootStrap",
-  },
-  {
-    name: "Jokes",
     image: Proj6,
-    skills: "JavaScript,HTML,CSS",
+    skills: "JavaScript, BootStrap",
   },
 ];
