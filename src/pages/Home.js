@@ -49,6 +49,10 @@ function Home() {
                     <h2>DataScience</h2>
                         {/* <span>This is the items for the fornt end</span> */}
                     </li>
+                    <li className="item">
+                    <h2>DevOps</h2>
+                        {/* <span>This is the items for the fornt end</span> */}
+                    </li>
                 </ol>
             </div>
         </div>

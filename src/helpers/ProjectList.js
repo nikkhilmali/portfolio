@@ -1,20 +1,15 @@
-import Proj1 from "../assets/proj1.jpg";
-import Proj2 from "../assets/proj2.jpg";
-import Proj3 from "../assets/proj3.webp";
-import Proj4 from "../assets/proj4.webp";
-import Proj5 from "../assets/proj5.jpg";
-import Proj6 from "../assets/proj6.png";
+import Proj1 from "../assets/shortURL.png";
+import Proj2 from "../assets/todo.png";
+import Proj3 from "../assets/currentWeather.png";
+import Proj4 from "../assets/blog.png";
+import Proj5 from "../assets/rqg.png";
+import Proj6 from "../assets/clock.png";
 
 export const ProjectList = [
   {
-    name: "URL Shortner",
-    image: Proj1,
-    skills: "ReactJS",
-  },
-  {
     name: "To Do List",
     image: Proj2,
-    skills: "MERN",
+    skills: "MERN Stack",
   },
   {
     name: "Current Weather",
@@ -22,11 +17,17 @@ export const ProjectList = [
     skills: "Weather API",
   },
   {
+    name: "URL Shortner",
+    image: Proj1,
+    skills: "NodeJS, Express, MongoDB",
+  },
+  {
     name: "Blog Platform",
     image: Proj4,
     skills: "Python, FASTAPI",
   },
   {
+    //make it Docker !!!
     name: "Random Quote Generater",
     image: Proj5,
     skills: "JavaScript,HTML,CSS,API",
