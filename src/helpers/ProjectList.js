@@ -12,6 +12,11 @@ export const ProjectList = [
     skills: "MERN Stack",
   },
   {
+    name: "Blog Platform",
+    image: Proj4,
+    skills: "Python, FASTAPI",
+  },
+  {
     name: "Current Weather",
     image: Proj3,
     skills: "Weather API",
@@ -20,11 +25,6 @@ export const ProjectList = [
     name: "URL Shortner",
     image: Proj1,
     skills: "NodeJS, Express, MongoDB",
-  },
-  {
-    name: "Blog Platform",
-    image: Proj4,
-    skills: "Python, FASTAPI",
   },
   {
     //make it Docker !!!
